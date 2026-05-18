@@ -99,8 +99,9 @@ Dashboard and GUI Review Layer
 Paper-Test Logs / Decision-Support Outputs
 ```
 
-For more detail, see:
+## Supporting Documentation
 
+* [Project Overview](docs/project-overview.md)
 * [Architecture Notes](docs/architecture.md)
 * [Operational Workflow](docs/operational-workflow.md)
 * [AI and Model Visibility](docs/ai-and-model-visibility.md)
